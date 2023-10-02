@@ -1,1 +1,1 @@
-# sql_project1
+In this SQL project, I am diving into the fascinating world of music datasets to extract valuable insights and answer specific questions. I have meticulously categorized my queries into three tiers of difficulty, ensuring a gradual learning curve. Your feedback and suggestions are highly appreciated as they play a crucial role in enhancing my understanding and skill development.
